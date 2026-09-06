@@ -1,0 +1,16 @@
+insert into brands (brand_name, country) values
+('Fender', 'USA'),
+('Gibson', 'USA'),
+('Ibanez', 'Japan'),
+('Yamaha', 'Japan'),
+('Boss', 'Japan'),
+('Roland', 'Japan'),
+('Focusrite', 'United Kingdom'),
+('Shure', 'USA'),
+('Sennheiser', 'Germany'),
+('Korg', 'Japan'),
+('Marshall', 'United Kingdom'),
+('Line 6', 'USA'),
+('Neural DSP', 'Finland'),
+('Audio-Technica', 'Japan'),
+('Ernie Ball', 'USA');
